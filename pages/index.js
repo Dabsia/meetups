@@ -23,6 +23,20 @@ const DUMMY_MEETUPS = [
         image: 'https://cdn.mos.cms.futurecdn.net/xbELjBNkaox36YPsoBakF-768-80.jpg',
         address: 'Some Third Address',
         description: 'This is a third meetup'
+    },
+    {
+        id: 'm4',
+        title: 'A fourth Title',
+        image: 'https://cdn.mos.cms.futurecdn.net/xbELjBNkaox36YPsoBakF-768-80.jpg',
+        address: 'Some fourth Address',
+        description: 'This is a fourth meetup'
+    },
+    {
+        id: 'm5',
+        title: 'A fifth Title',
+        image: 'https://cdn.mos.cms.futurecdn.net/xbELjBNkaox36YPsoBakF-768-80.jpg',
+        address: 'Some fifth Address',
+        description: 'This is a fifth meetup'
     }
 ]
 
