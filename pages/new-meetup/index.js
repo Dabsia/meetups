@@ -12,7 +12,7 @@ const NewMeetUpPage = () => {
         <Head>
             <title>Create New-meetup</title>
         </Head>
-        <NewMeetUpForm onAddMeetup =  {addMeetUpHandler} />
+        <NewMeetUpForm onAddMeetup = {addMeetUpHandler} />
       </div>
   )
 }
