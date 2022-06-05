@@ -21,13 +21,13 @@ const DUMMY_MEETUPS = [
 
 
 
-const HomePage = (props) => {
+const HomePage = ({meetups}) => {
     return (
       <div>
             <Head>
                 <title>Meetups</title>
             </Head>
-        <MeetUpList meetups = {props.meetups} />
+        <MeetUpList meetups = {meetups} />
       </div>
   )
 }
